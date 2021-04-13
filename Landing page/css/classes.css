@@ -27,6 +27,7 @@
     left: 0;
     right: 0;
     width: 100%;
+    z-index: 1;
     border-bottom: 0.1rem solid rgba(238, 238, 238, 0.192);
 }
 
@@ -36,4 +37,8 @@
     align-items: center;
     padding-top: 0;
     padding-bottom: 0;
+}
+
+.menu-spacing{
+    height: 65px;
 }
