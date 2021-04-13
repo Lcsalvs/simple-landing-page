@@ -4,4 +4,4 @@
 
 <h2> Recursos utilizados: </h2>
 
-<a href='https://undraw.co/search'>unDraw</a> 
+<a href='https://undraw.co/search' target='_blank'>unDraw</a> 
