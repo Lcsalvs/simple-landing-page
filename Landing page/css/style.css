@@ -42,9 +42,9 @@
     left: 25%;
 }
 
-.menu section h1 a:hover{
+.menu div h1 a:hover{
     color: rgb(240, 80, 40);
-}
+ }
 
 .intro-content{
     position: relative;
@@ -61,12 +61,24 @@
     justify-content: center;
 }
 
-.intro-text-content h2{
-    font-size: 6rem;
-    margin-bottom: 5rem;
-}
-
 .intro-img img{
     max-width: 100%;
     height: auto;
+}
+
+.top3-content{
+    max-width: 64rem;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.grid-one-content{
+    height: 100vh;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+
 }
