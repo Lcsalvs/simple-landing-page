@@ -12,11 +12,14 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 </head>
 <body>
+    
+    <input type="checkbox" arua-label="Close menu" class="close-menu" id="close-menu" role="button">
+    <label for="close-menu" title="close menu" class="close-menu-label"></label>
     <aside class="menu">
         <div class="main-content menu-content">
-            <h1><a href="#home">LOGO</a></h1>
+            <h1 onclick="getElementById('close-menu').checked = false;"><a href="#home">LOGO</a></h1>
         <nav>
-            <ul>
+            <ul onclick="getElementById('close-menu').checked = false;">
                 <li><a href="#intro">Intro</a></li>
                 <li><a href="#grid-one">Top 3</a></li>
                 <li><a href="#gallery">Gallery</a></li>
@@ -194,6 +197,8 @@
     <footer id="footer" class="white-bg">
         <p><a href="https://github.com/Lcsalvs" target="_blank">Desenvolvido por Lucas Alves 🤘</a></p>
     </footer>
+
+    <a href="#home" class="back-to-top">△</a>
 
 </body>
 </html>

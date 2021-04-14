@@ -30,26 +30,6 @@ h2{
     margin-bottom: 5rem;
 }
 
-h3{
-    font-size: 5rem;
-    text-transform: uppercase;
-}
-
-h4{
-    font-size: 4.5rem;
-    text-transform: uppercase;
-}
-
-h5{
-    font-size: 4rem;
-    text-transform: uppercase;
-}
-
-h6{
-    font-size: 3.5rem;
-    text-transform: uppercase;
-}
-
 p{
     line-height: 3.5rem;
     margin-bottom: 3rem;

@@ -48,3 +48,22 @@
     overflow: hidden;
     overflow-x: auto;
 }
+
+.close-menu{
+    display: none;
+}
+
+.back-to-top{
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    background: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 5rem;
+    height: 5rem;
+    color: #fff;
+    border-radius: 50%;
+    border: 0.2rem solid #000;
+}
