@@ -43,3 +43,8 @@
 .menu-spacing{
     height: 65px;
 }
+
+.responsive-table{
+    overflow: hidden;
+    overflow-x: auto;
+}

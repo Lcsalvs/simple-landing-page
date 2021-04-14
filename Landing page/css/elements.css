@@ -53,3 +53,26 @@ p{
     line-height: 3.5rem;
     margin-bottom: 3rem;
 }
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 360px;
+}
+
+table td, table th{
+    white-space: nowrap;
+    padding: 1rem;
+    border: 0.1rem solid rgba(238, 238, 238, 0.808);
+}
+
+tfoot td, table th{
+    background-color: rgba(238, 238, 238, 0.808);
+}
+
+table caption{
+    font-style: italic;
+    font-size: 1.6rem;
+    text-align: left;
+    margin-bottom: 1rem;
+}
