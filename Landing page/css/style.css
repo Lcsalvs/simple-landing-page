@@ -223,7 +223,7 @@ body .full-width{
     
     .menu-content, .menu-content ul{
         flex-direction: column;
-        justify-content: center;
+        justify-content: center !important;
     }
 
     .menu-content{
