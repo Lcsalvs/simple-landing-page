@@ -2,7 +2,7 @@
  A simple landing page with just HTML and CSS.
 
 
-<h2> Recursos utilizados: </h2>
+<h2> Sources: </h2>
 
 <a href='https://undraw.co/search'>unDraw</a>
 
