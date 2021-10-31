@@ -1,4 +1,4 @@
-<h1>Simple Landing Page with HTML and CSS</h1>
+<h1>Simple Landing Page</h1>
  A simple landing page with just HTML and CSS.
 
 
