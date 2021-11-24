@@ -1,15 +1,18 @@
-<h1>Simple Landing Page</h1>
+# Simple Landing Page
  A simple landing page with just HTML and CSS.
 
+## Page on Github Pages:
 
-<h2> Sources: </h2>
+[Simple Lading Page](https://lcsalvs.github.io/simple-landing-page/)
 
-<a href='https://undraw.co/search'>unDraw</a>
+## Sources:
 
-<a href='https://validator.w3.org'>Markup Validation Service</a>
+<a href='https://undraw.co/search' target="_blank">unDraw</a>
 
-<a href='https://www.svgbackgrounds.com'>SVG Backgrounds</a>
+<a href='https://validator.w3.org' target="_blank">Markup Validation Service</a>
 
-<a href='https://source.unsplash.com/random/360x360'>Unsplash Source</a>
+<a href='https://www.svgbackgrounds.com' target="_blank">SVG Backgrounds</a>
 
-<a href='https://www.piliapp.com/symbol/menu/'>PiliApp</a>
+<a href='https://source.unsplash.com/random/360x360' target="_blank">Unsplash Source</a>
+
+<a href='https://www.piliapp.com/symbol/menu/' target="_blank">PiliApp</a>
